@@ -1,4 +1,4 @@
-P7-Scoring - Implementez & Deployez un scoring modèle
+# P7-Scoring - Implementez & Deployez un scoring modèle
 Part-2. API for prediction
 
 1. Objectif du projet: (voir Repertoire part-1 @ 'modelisation_app_01)
